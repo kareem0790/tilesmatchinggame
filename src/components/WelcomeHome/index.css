@@ -1,0 +1,53 @@
+.welcome-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.welcome-heading {
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 42px;
+  font-weight: 800;
+  text-decoration: underline;
+}
+.username-container {
+  border: 3px solid #000000;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  min-height: 300px;
+  min-width: 700px;
+}
+.username-heading {
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 800;
+  text-decoration: underline;
+}
+.userinput {
+  color: #000000;
+  font-size: 18px;
+  outline: none;
+  padding: 8px;
+  width: 60%;
+  height: 40px;
+  border-radius: 8px;
+  border: 2px solid #000000;
+  margin-bottom: 10px;
+}
+.play-button {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-top: 10px;
+  font-weight: 800;
+  padding: 15px 80px;
+  background-color: #7770f9;
+}

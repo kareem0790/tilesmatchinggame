@@ -1,0 +1,15 @@
+.list-item {
+  padding: 0px;
+  width: 10%;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  list-style-type: none;
+}
+.emoji-button {
+  width: 100%;
+  width: 60px;
+  height: 60px;
+}
+.image {
+  width: 100%;
+}
